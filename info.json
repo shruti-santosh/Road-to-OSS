@@ -262,5 +262,14 @@
 		"current_pos": "Front End Web Developer",
 		"image": null,
 		"bio": "BTech Student currently learning web development"
-	}
+	},
+	{
+		
+	    "name": "Shruti",
+	    "gh_username": "shruti-santosh" 
+	    "place": "Kerala", 
+	    "current_pos": "Developer :)",
+	    "image": null
+	    "bio": "Doing stuff I am not sure about"
+ 	}
 ]
